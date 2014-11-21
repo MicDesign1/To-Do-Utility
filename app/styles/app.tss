@@ -1,0 +1,20 @@
+
+
+    "Window": {
+
+backgroundGradient: {
+            type: "linear",
+            startPoint: { x: "0%", y:"0%"},
+            endPoint:   { x: "0%", y:"100%"},
+            colors: [
+                { color: "#fff", offset: 0.0 },
+                { color: "#1964B0", offset: 1.0 }
+            ]
+        }
+
+   },
+
+
+    "Label": {
+        color: '#000'
+    }
